@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 project(CS220Synth)
 
-set(YourPath "~/Documents/GitHub/CS220-dmfb-synthesis-skeleton/")
+set(~/Users/Aria/CLionProjects/CS220-dmfb-synthesis-skeleton)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
@@ -59,7 +59,7 @@ set(CS220Synth_SOURCES
         Source/WireRouter/paths.cc
         Source/WireRouter/wire_router.cc
         Source/WireRouter/wire_segment.cc
-        Source/main.cc)
+        Source/main.cc Headers/PinMapper/volume_aware_pin_mapper.h Source/PinMapper/volume_aware_pin_mapper.cpp)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${YourPath})
 

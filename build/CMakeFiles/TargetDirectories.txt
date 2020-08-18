@@ -1,0 +1,3 @@
+/Users/Aria/CLionProjects/CS220-dmfb-synthesis-skeleton/build/CMakeFiles/rebuild_cache.dir
+/Users/Aria/CLionProjects/CS220-dmfb-synthesis-skeleton/build/CMakeFiles/edit_cache.dir
+/Users/Aria/CLionProjects/CS220-dmfb-synthesis-skeleton/build/CMakeFiles/CS220Synth.dir
